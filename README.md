@@ -4,5 +4,5 @@
 ##Instructions
 ### 1. clone the repository
 ### 2. If on a local machine, make sure you have node installed, then run npm install
-### 3. The site can also be reached at *****
+### 3. The site can also be reached at https://react-ts-8t2xwz.stackblitz.io
 ### 4. To preview locally, run `npm run dev`
